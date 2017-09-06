@@ -1,1 +1,1 @@
-[DEMO](https://ivadimko.github.io/template-email2)
+[DEMO](https://ivadimko.github.io/template-email2/)
